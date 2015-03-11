@@ -1,0 +1,21 @@
+#jms Service Key
+serviceKey: ""
+
+#scheme used (http/https)
+protocol: "https"
+
+#jms host
+host: "events.jms.com"
+
+#jms url path
+urlPath: "/generic/2010-04-15/create_event.json"
+
+#http timeouts
+connectTimeout: 10000
+socketTimeout: 10000
+
+#show appdynamics details in jms alert
+showDetails: false
+
+
+

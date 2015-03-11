@@ -1,0 +1,11 @@
+#jms Service Key
+serviceKey: ""
+
+#scheme used (http/https)
+protocol: "https"
+
+#jms host
+host: "events.jms.com"
+
+
+

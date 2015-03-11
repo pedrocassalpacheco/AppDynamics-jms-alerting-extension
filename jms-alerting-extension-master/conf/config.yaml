@@ -1,0 +1,10 @@
+# Rabbit MQ Host
+host: "localhost"
+
+# Queue name
+queueName: "test"
+
+#jms host
+host: "localhost"
+
+

@@ -1,0 +1,6 @@
+<custom-actions>
+  <action>
+    <type>createjmsAlarm</type>
+    <executable>createjmsAlarm.sh</executable>
+  </action>
+</custom-actions>

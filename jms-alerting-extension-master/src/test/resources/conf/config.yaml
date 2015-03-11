@@ -1,0 +1,10 @@
+# Rabbit MQ Host
+host: "192.168.168.144"
+
+# Queue name
+queueName: "test1"
+
+
+
+
+
